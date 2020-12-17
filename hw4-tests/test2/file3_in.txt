@@ -1,0 +1,21 @@
+20 5
+Alexandros Kouvelas 1 2 7 8 9
+Stavroula Popota 3 0 1 0 1
+Iwanna Skoula 7 6 7 6 5
+Xara Xaska 10 8 7 6 10
+Maria Logou 8 9 8 6 7
+Periandros Popotas 9 9 6 8 9
+Xristos Marstakis 3 4 5 6 7
+Manolis Stylianakakis 8 7 6 7 6
+Giorgos Vasilopoulos 0 8 9 8 6
+Giorgos Vasiliadis 6 4 7 6 5
+Iwannis Marazakis 9 8 7 6 5
+Iwannis Maroulakis 6 7 5 4 3
+Maria Pavlaki 8 7 4 9 0
+Alexis Tzouraris 9 8 7 6 10
+Pavlos Pavlidis 9 0 8 3 2
+Vasilia Lili 9 5 4 6 7
+Fotini Marakaki 8 5 3 4 2
+Kwstoula Terzaki 7 6 5 4 8
+Notis Tsilis 8 7 8 7 9
+Vagelis Fatseas 0 0 0 4 1 

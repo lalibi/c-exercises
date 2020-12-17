@@ -1,0 +1,15 @@
+Name: Alexandros Kouvelas avg 5.68
+Name: Kwstas Rigkas avg 5.70
+Name: Iwanna Skoula avg 5.47
+Name: Maria Logou avg 5.85
+Name: Manolis Popotas avg 6.10
+Name: Vasilia Markaki avg 5.82
+Name: Giorgos Makris avg 5.50
+Name: Xristos Marstakis avg 6.18
+Name: Manolis Stylianakakis avg 5.95
+Name: Giorgos Vasilopoulos avg 6.00
+Name: Giorgos Vasiliadis avg 5.93
+Name: Iwannis Marazakis avg 5.90
+max: Xristos Marstakis 6.18
+min: Iwanna Skoula 5.47
+average: 5.84

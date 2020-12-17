@@ -1,0 +1,7 @@
+Name: Giannis Spallas avg 3.60
+Name: Kwstas Rigkas avg 6.00
+Name: Iwanna Skoula avg 5.60
+Name: Maria Logou avg 6.60
+max: Maria Logou 6.60
+min: Giannis Spallas 3.60
+average: 5.45

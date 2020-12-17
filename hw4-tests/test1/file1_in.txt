@@ -1,0 +1,5 @@
+4 5
+Giannis Spallas  8 1 2 3 4
+Kwstas Rigkas  5 5 5 5 10
+Iwanna Skoula 9 2 3 6 8
+Maria Logou 8 9 9 7 0
