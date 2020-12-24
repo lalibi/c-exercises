@@ -1,0 +1,29 @@
+min area: 3: 12
+max area: 10: 2162
+
+rectangles by area:
+3: 12
+14: 24
+12: 30
+0: 102
+7: 105
+6: 160
+1: 176
+11: 256
+9: 385
+8: 400
+15: 414
+2: 451
+5: 504
+13: 576
+4: 2040
+10: 2162
+
+rectangles by color:
+red: 11
+green: 3, 12, 15, 5
+blue:
+yellow: 9, 4
+cyan:
+magenta: 14, 0, 7, 1, 8
+black: 6, 2, 13, 10

@@ -1,0 +1,17 @@
+min area: 0: 76
+max area: 3: 1551
+
+rectangles by area:
+0: 76
+1: 322
+2: 1421
+3: 1551
+
+rectangles by color:
+red: 1
+green:
+blue:
+yellow:
+cyan: 2
+magenta: 0, 3
+black:
