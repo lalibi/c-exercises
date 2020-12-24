@@ -1,0 +1,2 @@
+language = "c"
+run = "gcc hw5a.c -o hw5a.o && ./hw5a.o ./hw5-tests/testfiles/test5.in"
